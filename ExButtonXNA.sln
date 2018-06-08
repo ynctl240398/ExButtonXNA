@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExButtonXNA", "ExButtonXNA\ExButtonXNA\ExButtonXNA.csproj", "{4611CA77-A21B-4549-9A4D-F8E1B61A406B}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ExButtonXNAContent", "ExButtonXNA\ExButtonXNAContent\ExButtonXNAContent.contentproj", "{85FD7752-0E7D-43D0-B3C6-2CED6D426C59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4611CA77-A21B-4549-9A4D-F8E1B61A406B}.Debug|x86.ActiveCfg = Debug|x86
+		{4611CA77-A21B-4549-9A4D-F8E1B61A406B}.Debug|x86.Build.0 = Debug|x86
+		{4611CA77-A21B-4549-9A4D-F8E1B61A406B}.Release|x86.ActiveCfg = Release|x86
+		{4611CA77-A21B-4549-9A4D-F8E1B61A406B}.Release|x86.Build.0 = Release|x86
+		{85FD7752-0E7D-43D0-B3C6-2CED6D426C59}.Debug|x86.ActiveCfg = Debug|x86
+		{85FD7752-0E7D-43D0-B3C6-2CED6D426C59}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
